@@ -1,0 +1,2 @@
+variable "gresource_group"{
+}

@@ -1,0 +1,3 @@
+variable "gstorage_account" {
+
+}
